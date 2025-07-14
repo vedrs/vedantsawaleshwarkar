@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA and JAVA**
 
-- 💬 Ask me about **Android Python**
+- 💬 Ask me about **HTML CSS JS**
 
 - 📫 How to reach me **vedantsawaleshwarkar@gmail.com**
 
