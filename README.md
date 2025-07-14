@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshchavan06&label=Profile%20views&color=0e75b6&style=flat" alt="riteshchavan06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedrs&label=Profile%20views&color=0e75b6&style=flat" alt="vedrs" /> </p>
 
 
 - 🌱 I’m currently learning **DSA and JAVA**
